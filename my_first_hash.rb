@@ -1,5 +1,5 @@
 def my_hash
-  the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2,  "oil paintings" => 3}
+  gardening_tools = {"whale bone corsets" => 5, "porcelain vases" => 2,  "oil paintings" => 3}
 end
 
 
