@@ -1,5 +1,5 @@
 def my_hash
-  gardening_tools = {"plant indoor or outdoor seeds" => "seed packet", "plant vitamins" => "fertilizer",  "oil paintings" => "seed pellets"}
+  gardening_tools = {"plant indoor or outdoor seeds" => "seed packet", "plant vitamins" => "fertilizer",  "germinate seeds" => "seed pellets"}
 end
 
 
